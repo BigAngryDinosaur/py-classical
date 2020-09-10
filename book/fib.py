@@ -7,8 +7,6 @@ def fib(n):
        return n
    return fib(n-1) + fib(n-1)
 
-
-adsdfa
 def fib_gen(n: int) -> Generator[int, None, None]:
     yield 0
     if n > 1: yield 1
