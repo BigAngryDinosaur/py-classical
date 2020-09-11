@@ -1,7 +1,12 @@
 README.rst
 setup.py
 book/__init__.py
+book/fib.py
+book/gene_compressor.py
+book/main.py
+book/nucleotide_compressor.py
 book.egg-info/PKG-INFO
 book.egg-info/SOURCES.txt
 book.egg-info/dependency_links.txt
+book.egg-info/entry_points.txt
 book.egg-info/top_level.txt
