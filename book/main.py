@@ -2,8 +2,9 @@ from .fib import *
 from .nucleotide_compressor import NucleotideCompressor
 
 def start():
+    print(fib(10))
     #print([x for x in fib_gen(10)])
-    compress_gene()
+    #compress_gene()
 
 
 def compress_gene():
